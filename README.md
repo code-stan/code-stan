@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @code-stan
-- 👀 I’m interested in full stack web and javascript development
-- 🌱 I’m currently a frontend web developer and an aspiring full stack developer
+- 👀 I’m interested in Full Stack Web and Javascript development
+- 🌱 I’m currently a frontend web developer 
 - 💞️ I’m looking to collaborate on web related projects
 - 📫 My web portfolio www.codestan.netlify.app
+- 🧠 Html, Css, Sass, Javascript
 
 <!---
 code-stan/code-stan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
