@@ -5,7 +5,7 @@
 Junior Frontend Developer
 -------------------------
 
-I'm an aspiring Full Stack Web and Javascript developer and a Frontend web developer currently. I am proficient in HTML, CSS, SASS and Javascript
+I'm an aspiring Full Stack Web and Javascript Developer and a Frontend Web Developer currently. I am proficient in HTML, CSS, SASS and Javascript
 
 
 * 🌍  I'm based in Nigeria
