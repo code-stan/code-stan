@@ -22,10 +22,10 @@ src="https://img.shields.io/twitter/follow/codestanley?logo=twitter&style=for-th
 ###### Aspiring Full Stack web3 and Javascript web developer.
 -   Playing around with creative development
 - 📬 How to reach me: Let's get in touch! [Twitter](https://twitter.com/CodeStanley)
-- 🧠  I'm currently learning JS animation / Everything about Js
-- 🧗 I try to: Get creative with UI designs
-- ⚡ Fun fact: I lcan
-portraits draw
+- 🧠  I'm currently learning React, JS animation / Everything about Js
+- 🖥️  See my portfolio at [CodeStan](http://codestan.netlify.app)
+- 🧗 I try to: build creative websites and applications
+- ⚡ Fun fact: I can portraits draw
 <br>
 
 ### Languages and Tools: 
