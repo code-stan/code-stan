@@ -25,7 +25,7 @@ src="https://img.shields.io/twitter/follow/codestanley?logo=twitter&style=for-th
 - 🧠  I'm currently learning React, JS animation / Everything about Js
 - 🖥️  See my portfolio at [CodeStan](http://codestan.netlify.app)
 - 🧗 I try to: build creative websites and applications
-- ⚡ Fun fact: I can portraits draw
+- ⚡ Fun fact: I can draw portraits
 <br>
 
 ### Languages and Tools: 
