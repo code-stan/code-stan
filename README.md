@@ -42,25 +42,9 @@ src="https://img.shields.io/twitter/follow/codestanley?logo=twitter&style=for-th
 <a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored-dark.svg" width="36" height="36" alt="XD" /></a>
 </p>
 
-
-
 <br>
 <br>
 <br>
-<br>
-
-  
-<p align='center'>
-  <a href="http://www.github.com/code-stan"><img src="https://github-readme-stats.vercel.app/api?username=code-stan&show_icons=true&hide=&count_private=true&title_color=a855f7&text_color=f97316&icon_color=6366f1&bg_color=000000&hide_border=true&show_icons=true" alt="code-stan's GitHub stats" /></a>
-</p>
-
-<br>
-
-<p align='center'>
-<a href="https://github.com/code-stan" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=code-stan&langs_count=10&title_color=a855f7&text_color=f97316&icon_color=6366f1&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
-</p>
-
-
 
 <div align="center">
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
