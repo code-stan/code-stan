@@ -21,8 +21,7 @@ src="https://img.shields.io/twitter/follow/codestanley?logo=twitter&style=for-th
 ###### Aspiring Full Stack web3 and Javascript web developer.
 -   Playing around with creative development
 - 📬 How to reach me: Let's get in touch! [Twitter](https://twitter.com/CodeStanley)
-- 🧠  I'm currently more about JS animation and solidity
-- 🖥️  See my portfolio at [CodeStan](http://codestan.netlify.app)
+- 🧠  I'm currently learning more about JS animations and solidity
 - 🧗 I try to: build creative websites and applications
 - ⚡ Fun fact: I can draw portraits
 <br>
