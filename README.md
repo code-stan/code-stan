@@ -1,8 +1,3 @@
-<br><br><br><br><br><br>
-<p>
-  <h1 align="center"><b>Hello there, I'm Stan 👋</b></h1>
-</p>
-
 <p align="center">
 <br>
  <a href="https://www.twitter.com/codestanley" target="_blank" rel="noreferrer"><img
@@ -18,17 +13,13 @@ src="https://img.shields.io/twitter/follow/codestanley?logo=twitter&style=for-th
 
 
 ### Frontend developer
-###### Aspiring Full Stack web3 and Javascript web developer.
 -   Playing around with creative development
 - 📬 How to reach me: Let's get in touch! [Twitter](https://twitter.com/CodeStanley)
-- 🧠  I'm currently learning more about JS animations and solidity
-- 🧗 I try to: build creative websites and applications
-- ⚡ Fun fact: I can draw portraits
 <br>
 
 ### Languages and Tools: 
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=code-stan&layout=default)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -41,11 +32,3 @@ src="https://img.shields.io/twitter/follow/codestanley?logo=twitter&style=for-th
 <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
 <a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored-dark.svg" width="36" height="36" alt="XD" /></a>
 </p>
-
-<br>
-<br>
-<br>
-
-<div align="center">
-<h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
-</div><img src="https://github.com/punitkmryh/punitkmryh/blob/master/wave.svg" />
