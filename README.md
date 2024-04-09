@@ -1,4 +1,4 @@
-<p align="center">
+<p align="left">
 <br>
  <a href="https://www.twitter.com/codestanley" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/codestanley?logo=twitter&style=for-the-badge&color=0891b2&labelColor=171717"
@@ -6,20 +6,7 @@ src="https://img.shields.io/twitter/follow/codestanley?logo=twitter&style=for-th
 <a href="https://www.linkedin.com/in/codestan/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>&nbsp;
 </p>
 
-<br>
-
-<img align="right" height="270px" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
-
-
-
-### Frontend developer
--   Playing around with creative development
-- 📬 How to reach me: Let's get in touch! [Twitter](https://twitter.com/CodeStanley)
-<br>
-
 ### Languages and Tools: 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=code-stan&layout=default)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
